@@ -9,6 +9,7 @@
 - flask
 - sqlite3
 - firebase
+- TKinter(aprendendo a fazer o designer)
 - APIs
 ##
 E se eu não souber, eu aprendo na hora
