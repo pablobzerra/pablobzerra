@@ -15,6 +15,3 @@ E se eu não souber, eu aprendo na hora
 ##
 Bom não tenho muito oque colocar😅
 mas quero ser um grande programador
-
-Edit: [ 11/02/22 ]
-[14/nov/21]
