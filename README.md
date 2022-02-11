@@ -3,9 +3,9 @@
 ##
 - Estou aprendendo e estudando. ☺
 - aceito qualquer oportunidade que surgir
-- Hello World!!
 ##
 Bom n tenho muito oque colocar😅
 mas quero ser um grande programador
 
-[14/nov/21].
+Edit: [ 11/02/22 ]
+[14/nov/21]
