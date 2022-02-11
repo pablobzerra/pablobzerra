@@ -4,7 +4,16 @@
 - Estou aprendendo e estudando. ☺
 - aceito qualquer oportunidade que surgir
 ##
-Bom n tenho muito oque colocar😅
+### Com oque eu sei trabalhar?
+##
+- flask
+- sqlite3
+- firebase
+- APIs
+##
+E se eu não souber, eu aprendo na hora
+##
+Bom não tenho muito oque colocar😅
 mas quero ser um grande programador
 
 Edit: [ 11/02/22 ]
