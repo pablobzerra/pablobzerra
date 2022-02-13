@@ -6,7 +6,7 @@
 ##
 ### Com oque eu sei trabalhar?
 ##
-- flask
+- flask (API Restful)
 - sqlite3
 - firebase
 - TKinter(aprendendo a fazer o designer)
