@@ -11,6 +11,7 @@
 - firebase
 - TKinter(aprendendo a fazer o designer)
 - APIs
+- BotMaker Telegram
 ##
 E se eu não souber, eu aprendo na hora
 ##
