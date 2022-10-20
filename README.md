@@ -12,6 +12,8 @@
 - TKinter(aprendendo a fazer o designer)
 - APIs
 - PyTelegramApiBot
+
+Obs: Aprendendo Java
 ##
 E se eu não souber, eu aprendo na hora
 ##
