@@ -2,7 +2,6 @@
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=black&style=dark&logo=python)
 ##
 - Estou aprendendo e estudando. ☺
-- aceito qualquer oportunidade que surgir
 ##
 ### Com oque eu sei trabalhar?
 ##
