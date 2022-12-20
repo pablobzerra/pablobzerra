@@ -17,5 +17,5 @@ Obs: Aprendendo Java
 ##
 E se eu não souber, eu aprendo na hora
 ##
-Bom, não tenho muito oque colocar😅
+Bom, não tenho muito o que colocar😅
 mas quero ser um grande programador
