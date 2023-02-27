@@ -10,7 +10,7 @@
 - firebase
 - TKinter(aprendendo a fazer o designer)
 - APIs
-- PyTelegramApiBot
+- PyTelegramApiBot(Bots em GERAL)
 
 Obs: Aprendendo Java
 ##
