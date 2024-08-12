@@ -8,7 +8,6 @@
 ###      😊Bem Vindo ao meu perfil!!
 ##
 ### Linguagens
-##
 - Python
 - Lua
 - JavaScript
