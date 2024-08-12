@@ -12,6 +12,8 @@
 - APIs
 - PyTelegramApiBot(Bots em GERAL)
 - Lua
+- JavaScript
+- Java
 
 Obs: Aprendendo Java
 ##
