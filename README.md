@@ -6,7 +6,8 @@
 ![aqlite](https://img.shields.io/static/v1?label=&message=aqlite&color=black&style=dark&logo=sqlite)
 ![shell](https://img.shields.io/static/v1?label=&message=shell&color=black&style=dark&logo=shell)
 ![PHP](https://img.shields.io/static/v1?label=&message=php&color=black&style=dark&logo=php)
-<h1 style="text-align: center;"> 😊Bem Vindo ao meu perfil!! </h1>
+### 😊Bem Vindo ao meu perfil!!
+•••••••••••••••••••••••••••••••••••••••
 
 ##
 ### Linguagens
