@@ -5,6 +5,7 @@
 ![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=black&style=dark&logo=Lua)
 ![aqlite](https://img.shields.io/static/v1?label=&message=aqlite&color=black&style=dark&logo=sqlite)
 ![shell](https://img.shields.io/static/v1?label=&message=shell&color=black&style=dark&logo=shell)
+![PHP](https://img.shields.io/static/v1?label=&message=php&color=black&style=dark&logo=php)
 ###      😊Bem Vindo ao meu perfil!!
 ##
 ### Linguagens
@@ -13,6 +14,7 @@
 - JavaScript
 - Java
 - Shell
+- php(Bem pouco)
 
 ### Tecnologias
 - APIs
