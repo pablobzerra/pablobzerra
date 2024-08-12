@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=black&style=dark&logo=Java)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=black&style=dark&logo=javaScript)
 ![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=black&style=dark&logo=Lua)
+![aqlite](https://img.shields.io/static/v1?label=&message=aqlite&color=black&style=dark&logo=sqlite)
 ##
 - Estou aprendendo e estudando. ☺
 ##
