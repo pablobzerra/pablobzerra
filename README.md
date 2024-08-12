@@ -7,8 +7,7 @@
 ![shell](https://img.shields.io/static/v1?label=&message=shell&color=black&style=dark&logo=shell)
 ![PHP](https://img.shields.io/static/v1?label=&message=php&color=black&style=dark&logo=php)
 ### 😊Bem Vindo ao meu perfil!!
-## •••••••••••••••••••••••••••••••••••••••••••••
-
+(⁠☞ﾟ⁠∀ﾟ⁠)⁠☞ Nada na vida é feito só de tristeza 
 ##
 ### Linguagens
 - Python
