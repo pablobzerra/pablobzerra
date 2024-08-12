@@ -6,6 +6,7 @@
 ![aqlite](https://img.shields.io/static/v1?label=&message=aqlite&color=black&style=dark&logo=sqlite)
 ![shell](https://img.shields.io/static/v1?label=&message=shell&color=black&style=dark&logo=shell)
 ###      😊Bem Vindo ao meu perfil!!
+##
 ### Linguagens
 ##
 - Python
