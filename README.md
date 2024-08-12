@@ -11,6 +11,7 @@
 - TKinter(aprendendo a fazer o designer)
 - APIs
 - PyTelegramApiBot(Bots em GERAL)
+- Lua
 
 Obs: Aprendendo Java
 ##
