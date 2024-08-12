@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=black&style=dark&logo=javaScript)
 ![Lua](https://img.shields.io/static/v1?label=&message=Lua&color=black&style=dark&logo=Lua)
 ![aqlite](https://img.shields.io/static/v1?label=&message=aqlite&color=black&style=dark&logo=sqlite)
+![shell](https://img.shields.io/static/v1?label=&message=shell&color=black&style=dark&logo=shell)
 ##
 - Estou aprendendo e estudando. ☺
 ##
